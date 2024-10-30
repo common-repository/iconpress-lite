@@ -1,0 +1,19 @@
+.iconpressElm-browseIcon-iconWrapper {
+	display: block;
+	background-color: #FFF;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	cursor: default;
+	border: 1px dashed #b4b9be;
+	box-sizing: border-box;
+	padding: 15px 0;
+	margin-bottom: 15px;
+	color: #9E9E9E;
+	cursor: pointer;
+}
+.iconpressElm-browseIcon-iconWrapper svg {
+	font-size: 70px;
+	top: 0;
+	color:#333;
+}

@@ -1,0 +1,98 @@
+.ip-dropzone,
+.ip-dropzone * {
+	box-sizing: border-box
+}
+.ip-dropzone {
+	border: 2px dashed #7d7e7f;
+	border-radius: 5px;
+	background: #fff;
+	min-height: 150px;
+	padding: 20px 20px;
+	position: relative;
+}
+.ip-dropzone.dz-drag-hover {
+	background-color: #FFF;
+	border-color: #4079e9;
+}
+.ip-dropzone .dz-message {
+	font-weight: 400;
+	font-size: 20px;
+	margin: 2em;
+	text-align: center;
+}
+.ip-dropzone.dz-started .dz-message {
+	display: none;
+}
+.ip-dropzone .dz-message .note {
+	font-size: 0.8em;
+	font-weight: 200;
+	display: block;
+	margin-top: 1.4rem;
+}
+
+.ip-dropzone .dz-preview {
+	position: relative;
+	display: inline-block;
+	width: 150px;
+	margin: 0.5em;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
+	padding: 20px;
+	vertical-align: top;
+}
+
+.ip-dropzone .dz-preview .dz-progress {
+	display: block;
+	height: 3px;
+	background-color: #ccc;
+}
+
+.ip-dropzone .dz-preview .dz-progress .dz-upload {
+	display: block;
+	height: 100%;
+	width: 0;
+	background: #4CAF50
+}
+
+.ip-dropzone .dz-preview .dz-error-message {
+	color: red;
+	display: none;
+	margin-top: 10px;
+	font-size: 11px;
+}
+
+.ip-dropzone .dz-preview.dz-error .dz-error-message, .ip-dropzone .dz-preview.dz-error .dz-error-mark {
+	display: block
+}
+
+.ip-dropzone .dz-preview.dz-success .dz-success-mark {
+	display: block
+}
+
+.ip-dropzone .dz-preview .dz-error-mark,
+.ip-dropzone .dz-preview .dz-success-mark {
+	position: absolute;
+	display: none;
+	left: 30px;
+	top: 30px;
+	width: 54px;
+	height: 58px;
+	left: 50%;
+	margin-left: -27px
+}
+
+.ip-dropzone .dz-image {
+	margin-bottom: 20px;
+	display: none;
+}
+
+.ip-dropzone .dz-image img {
+	max-width:100%;
+	display: inline-block;
+}
+
+.ip-dropzone .dz-details {
+	margin-bottom: 20px;
+}
+.ip-dropzone .dz-size {
+	margin-bottom: 10px;
+}

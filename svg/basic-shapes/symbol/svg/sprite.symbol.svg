@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol id="square" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Square</title>
+        <rect x="0" y="0" width="65" height="65"></rect>
+    </symbol>
+    <symbol id="square_outline_1x" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Square Outline 1x</title>
+        <path d="M5,5 L5,60 L60,60 L60,5 L5,5 Z M0,0 L65,0 L65,65 L0,65 L0,0 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="square_outline_2x" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Square Outline 2x</title>
+        <path d="M17,17 L17,48 L48,48 L48,17 L17,17 Z M0,0 L65,0 L65,65 L0,65 L0,0 Z" fill-rule="nonzero"></path>
+    </symbol>
+
+
+    <symbol id="rectangle" viewBox="0 0 140 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Rectangle</title>
+        <rect x="0" y="0" width="140" height="65"></rect>
+    </symbol>
+    <symbol id="rectangle_outline_1x" viewBox="0 0 140 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Rectangle Outline 2x</title>
+        <path d="M5,5 L5,60 L135,60 L135,5 L5,5 Z M0,0 L140,0 L140,65 L0,65 L0,0 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="rectangle_outline_2x" viewBox="0 0 140 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Rectangle Outline 2x</title>
+        <path d="M20,20 L20,45 L120,45 L120,20 L20,20 Z M0,0 L140,0 L140,65 L0,65 L0,0 Z" id="Rectangle-Copy-5" fill="#979797" fill-rule="nonzero"></path>
+    </symbol>
+
+
+    <symbol id="circle" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Circle</title>
+        <circle cx="30" cy="30" r="30"></circle>
+    </symbol>
+    <symbol id="circle_outline_1x" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Circle Outline 1x</title>
+        <path d="M33,65.5 C15.0507456,65.5 0.5,50.9492544 0.5,33 C0.5,15.0507456 15.0507456,0.5 33,0.5 C50.9492544,0.5 65.5,15.0507456 65.5,33 C65.5,50.9492544 50.9492544,65.5 33,65.5 Z M33,60.5 C48.1878306,60.5 60.5,48.1878306 60.5,33 C60.5,17.8121694 48.1878306,5.5 33,5.5 C17.8121694,5.5 5.5,17.8121694 5.5,33 C5.5,48.1878306 17.8121694,60.5 33,60.5 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="circle_outline_2x" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Circle Outline 2x</title>
+        <path d="M40,80 C17.90861,80 0,62.09139 0,40 C0,17.90861 17.90861,0 40,0 C62.09139,0 80,17.90861 80,40 C80,62.09139 62.09139,80 40,80 Z M40,60 C51.045695,60 60,51.045695 60,40 C60,28.954305 51.045695,20 40,20 C28.954305,20 20,28.954305 20,40 C20,51.045695 28.954305,60 40,60 Z" fill-rule="nonzero"></path>
+    </symbol>
+
+
+    <symbol id="rounded" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Rounded</title>
+        <rect x="0" y="0" width="65" height="65" rx="8"></rect>
+    </symbol>
+    <symbol id="rounded_outline_1x" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Rounded Outline 1x</title>
+        <path d="M8,5 C6.34314575,5 5,6.34314575 5,8 L5,57 C5,58.6568542 6.34314575,60 8,60 L57,60 C58.6568542,60 60,58.6568542 60,57 L60,8 C60,6.34314575 58.6568542,5 57,5 L8,5 Z M8,0 L57,0 C61.418278,0 65,3.581722 65,8 L65,57 C65,61.418278 61.418278,65 57,65 L8,65 C3.581722,65 0,61.418278 0,57 L0,8 C0,3.581722 3.581722,0 8,0 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="rounded_outline_2x" viewBox="0 0 103 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Rounded Outline 2x</title>
+        <path d="M27,19 C22.581722,19 19,22.581722 19,27 L19,76 C19,80.418278 22.581722,84 27,84 L76,84 C80.418278,84 84,80.418278 84,76 L84,27 C84,22.581722 80.418278,19 76,19 L27,19 Z M27,0 L76,0 C90.9116882,0 103,12.0883118 103,27 L103,76 C103,90.9116882 90.9116882,103 76,103 L27,103 C12.0883118,103 0,90.9116882 0,76 L0,27 C0,12.0883118 12.0883118,0 27,0 Z" fill-rule="nonzero"></path>
+    </symbol>
+
+
+    <symbol id="pentagon" viewBox="0 0 78 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Pentagon</title>
+        <polygon points="39 0 77.9933172 28.3303032 63.0991953 74.1696968 14.9008047 74.1696968 0.0066828319 28.3303032"></polygon>
+    </symbol>
+    <symbol id="pentagon_outline_1x" viewBox="0 0 84 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Pentagon Outline 1x</title>
+        <path d="M5.94560909,33.2852183 L19.717161,75.6696968 L64.282839,75.6696968 L78.0543909,33.2852183 L42,7.09016994 L5.94560909,33.2852183 Z M83.9322434,31.3753882 L67.9155517,80.6696968 L16.0844483,80.6696968 L0.0677565704,31.3753882 L42,0.909830056 L83.9322434,31.3753882 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="pentagon_outline_2x" viewBox="0 0 108 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Pentagon Outline 2x</title>
+        <path d="M59.2900673,17.8434588 C56.1356806,15.5516628 51.8643194,15.5516628 48.7099327,17.8434588 L20.2967501,38.4868444 C17.1423634,40.7786405 15.8224402,44.8409463 17.0273087,48.5491503 L27.8801788,81.9508497 C29.0850473,85.6590537 32.5406511,88.1696968 36.4396874,88.1696968 L71.5603126,88.1696968 C75.4593489,88.1696968 78.9149527,85.6590537 80.1198212,81.9508497 L90.9726913,48.5491503 C92.1775598,44.8409463 90.8576366,40.7786405 87.7032499,38.4868444 L59.2900673,17.8434588 Z M68.6946313,4.89918694 L97.1078139,25.5425725 C105.869999,31.9086727 109.536452,43.1928557 106.189596,53.4934222 L95.3367255,86.8951216 C91.9898686,97.1956881 82.3909691,104.169697 71.5603126,104.169697 L36.4396874,104.169697 C25.6090309,104.169697 16.0101314,97.1956881 12.6632745,86.8951216 L1.81040447,53.4934222 C-1.53645247,43.1928557 2.13000086,31.9086727 10.8921861,25.5425725 L39.3053687,4.89918694 C48.0675539,-1.46691325 59.9324461,-1.46691325 68.6946313,4.89918694 Z" fill-rule="nonzero"></path>
+    </symbol>
+
+
+    <symbol id="hexagon" viewBox="0 0 84 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Hexagon</title>
+        <polygon points="42 0 83.5692194 24 83.5692194 72 42 96 0.430780618 72 0.430780618 24"></polygon>
+    </symbol>
+    <symbol id="hexagon_outline_1x" viewBox="0 0 90 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Hexagon Outline 1x</title>
+        <path d="M5.93078062,28.4433757 L5.93078062,73.5566243 L45,96.1132487 L84.0692194,73.5566243 L84.0692194,28.4433757 L45,5.88675135 L5.93078062,28.4433757 Z M89.0692194,25.5566243 L89.0692194,76.4433757 L45,101.886751 L0.930780618,76.4433757 L0.930780618,25.5566243 L45,0.113248654 L89.0692194,25.5566243 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="hexagon_outline_2x" viewBox="0 0 116 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Hexagon Outline 2x</title>
+        <path d="M62,17.3094011 C59.5247914,15.8803387 56.4752086,15.8803387 54,17.3094011 L20.4307806,36.6905989 C17.955572,38.1196613 16.4307806,40.7606774 16.4307806,43.6188022 L16.4307806,82.3811978 C16.4307806,85.2393226 17.955572,87.8803387 20.4307806,89.3094011 L54,108.690599 C56.4752086,110.119661 59.5247914,110.119661 62,108.690599 L95.5692194,89.3094011 C98.044428,87.8803387 99.5692194,85.2393226 99.5692194,82.3811978 L99.5692194,43.6188022 C99.5692194,40.7606774 98.044428,38.1196613 95.5692194,36.6905989 L62,17.3094011 Z M70,3.45299462 L103.569219,22.8341925 C110.994845,27.1213795 115.569219,35.044428 115.569219,43.6188022 L115.569219,82.3811978 C115.569219,90.955572 110.994845,98.8786205 103.569219,103.165808 L70,122.547005 C62.5743742,126.834192 53.4256258,126.834192 46,122.547005 L12.4307806,103.165808 C5.00515478,98.8786205 0.430780618,90.955572 0.430780618,82.3811978 L0.430780618,43.6188022 C0.430780618,35.044428 5.00515478,27.1213795 12.4307806,22.8341925 L46,3.45299462 C53.4256258,-0.834192463 62.5743742,-0.834192463 70,3.45299462 Z" fill-rule="nonzero"></path>
+    </symbol>
+
+
+    <symbol id="triangle" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Triangle</title>
+        <polygon points="46 0 92 92 0 92"></polygon>
+    </symbol>
+    <symbol id="triangle_outline_1x" viewBox="0 0 100 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Triangle Outline 1x</title>
+        <path d="M8.04508497,95.5 L91.954915,95.5 L50,11.5901699 L8.04508497,95.5 Z M100.045085,100.5 L-0.0450849719,100.5 L50,0.409830056 L100.045085,100.5 Z" fill-rule="nonzero"></path>
+    </symbol>
+    <symbol id="triangle_outline_2x" viewBox="0 0 126 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Triangle Outline 2x</title>
+        <path d="M67.472136,22.9442719 C66.9883174,21.9766349 66.203705,21.1920224 65.236068,20.7082039 C62.7661755,19.4732577 59.7628103,20.4743794 58.527864,22.9442719 L20.618034,98.763932 C20.2708954,99.4582092 20.0901699,100.223775 20.0901699,101 C20.0901699,103.761424 22.3287462,106 25.0901699,106 L100.90983,106 C101.686056,106 102.451621,105.819275 103.145898,105.472136 C105.615791,104.23719 106.616912,101.233825 105.381966,98.763932 L67.472136,22.9442719 Z M85.3606798,14 L123.27051,89.8196601 C129.445241,102.169123 124.439632,117.185949 112.09017,123.36068 C108.618784,125.096373 104.790957,126 100.90983,126 L25.0901699,126 C11.2830512,126 0.0901699437,114.807119 0.0901699437,101 C0.0901699437,97.1188726 0.993797238,93.291046 2.72949017,89.8196601 L40.6393202,14 C46.8140514,1.65053756 61.8308775,-3.35507111 74.1803399,2.81966011 C79.0185249,5.23875264 82.9415872,9.16181494 85.3606798,14 Z" fill-rule="nonzero"></path>
+    </symbol>
+
+</svg>

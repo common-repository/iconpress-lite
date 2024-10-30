@@ -1,0 +1,906 @@
+# Copyright (C) 2020 iconpresslite
+# This file is distributed under the same license as the iconpresslite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: iconpresslite\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: IconPress\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "The <strong>%s</strong> class is not available on your server. Please contact your hosting support and ask them to enable this function for you."
+msgstr ""
+
+msgid "The PHP version <strong>%s</strong> is needed in order to be able to run the <strong>%s</strong> plugin. Please contact your hosting support and ask them to upgrade the PHP version to at least v<strong>%s</strong> for you."
+msgstr ""
+
+msgid "<strong>WordPress Rest API</strong> is needed in order to be able to run the <strong>IconPress</strong> plugin. Please update WordPress to the latest version, or at least version 4.7 ."
+msgstr ""
+
+msgid "<strong><a href=\"https://wordpress.org/plugins/disable-json-api/\" target=\"_blank\">Disable REST API</a></strong> plugin is installed and active. WordPress Rest API is needed in order to be able to run the <strong>IconPress</strong> plugin. If you intentionally disabled WordPress Rest API by installing this plugin, please drop us an email at hello@iconpress.io and let us know. We want to gather as much feedback as possible to see if we can find a workaround for it."
+msgstr ""
+
+msgid "<strong>%s</strong> has been deactivated."
+msgstr ""
+
+msgid "Select Icons"
+msgstr ""
+
+msgid "My Collection"
+msgstr ""
+
+msgid "LOAD MORE"
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "ICONS SELECTED"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "No more collections."
+msgstr ""
+
+msgid "LOAD MORE COLLECTIONS"
+msgstr ""
+
+msgid "No results."
+msgstr ""
+
+msgid "ADD MORE ICONS"
+msgstr ""
+
+msgid "TOTAL ICONS SELECTED"
+msgstr ""
+
+msgid "SAVE"
+msgstr ""
+
+msgid "SAVE AS NEW"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "SAVE AND ACCESS YOUR COLLECTION"
+msgstr ""
+
+msgid "Type to search for icon"
+msgstr ""
+
+msgid "FILTER"
+msgstr ""
+
+msgid "FILTER SEARCH"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "ICON SIZE"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error Code"
+msgstr ""
+
+msgid "COPY"
+msgstr ""
+
+msgid "INSERT SHORTCODE INTO EDITOR"
+msgstr ""
+
+msgid "Your custom collection:"
+msgstr ""
+
+msgid "Your custom collection is empty."
+msgstr ""
+
+msgid "Add icons."
+msgstr ""
+
+msgid "System icons:"
+msgstr ""
+
+msgid "These icons are used throughout our IconPress plugin (reusability FTW!). Developers can add their own icons too."
+msgstr ""
+
+msgid "CUSTOMIZE CODE"
+msgstr ""
+
+msgid "TITLE ATTRIBUTE"
+msgstr ""
+
+msgid "COLOR"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "PREVIEW"
+msgstr ""
+
+msgid "INSERT SHORTCODE"
+msgstr ""
+
+msgid "INSERT ICON"
+msgstr ""
+
+msgid "CUSTOMIZE & COPY CODE"
+msgstr ""
+
+msgid "HELP"
+msgstr ""
+
+msgid "Remove Browser Cache & Reload page"
+msgstr ""
+
+msgid "It looks like you have been editing something. If you leave before saving, your changes will be lost."
+msgstr ""
+
+msgid "Please note that some icons cannot be colored. This usually happens because there are fills and stroke colors defined into the icon code. As an alternative you can try to edit the icon's source code."
+msgstr ""
+
+msgid "Collection saved."
+msgstr ""
+
+msgid "icon, made by "
+msgstr ""
+
+msgid " licensed as "
+msgstr ""
+
+msgid "ICON INFORMATION:"
+msgstr ""
+
+msgid "COPY ATTRIBUTION:"
+msgstr ""
+
+msgid "Show support! Insert the attribution on the page of the icon (for example in the page footer) or on the imprint page. Or, you can place the attribution on the credits/description page of the application."
+msgstr ""
+
+msgid "Icon Information"
+msgstr ""
+
+msgid "Delete Icon"
+msgstr ""
+
+msgid "or get"
+msgstr ""
+
+msgid "It seems you don't have any icon installed. Please import the default icons (over 4000) by clicking the button below. May take 1-2 minutes."
+msgstr ""
+
+msgid "IMPORT DEFAULT ICONS"
+msgstr ""
+
+msgid "IconPress Lite"
+msgstr ""
+
+msgid "Icon Libraries"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "IconPress Insert Icon"
+msgstr ""
+
+msgid "GET PRO"
+msgstr ""
+
+msgid "Why should you go PRO?"
+msgstr ""
+
+msgid "Access to over 100.000 icons (in all sorts of colors and shapes) from <a href=\"%s\">IconFinder</a>."
+msgstr ""
+
+msgid "Upload your own icons."
+msgstr ""
+
+msgid "Edit Icon's code"
+msgstr ""
+
+msgid "Download Icons"
+msgstr ""
+
+msgid "and so much more to come!"
+msgstr ""
+
+msgid "Get IconPress PRO now!"
+msgstr ""
+
+msgid "Go Pro"
+msgstr ""
+
+msgid "Adding & Saving icons into your collection"
+msgstr ""
+
+msgid "Nope!"
+msgstr ""
+
+msgid "My Collection page explained"
+msgstr ""
+
+msgid "IconPress Shortcode"
+msgstr ""
+
+msgid "Insert from WordPress editor"
+msgstr ""
+
+msgid "Page Builder Elements"
+msgstr ""
+
+msgid "Insert icons with PHP syntax"
+msgstr ""
+
+msgid "Insert icons as HTML code"
+msgstr ""
+
+msgid "IconPress options explained"
+msgstr ""
+
+msgid "IconPress - Options"
+msgstr ""
+
+msgid "Collections imported/updated successfully."
+msgstr ""
+
+msgid "An error occurred while re-scanning collections."
+msgstr ""
+
+msgid "Options saved."
+msgstr ""
+
+msgid "Icons color in grid listing."
+msgstr ""
+
+msgid "Default size in grid listing."
+msgstr ""
+
+msgid "16px"
+msgstr ""
+
+msgid "24px"
+msgstr ""
+
+msgid "32px"
+msgstr ""
+
+msgid "64px"
+msgstr ""
+
+msgid "128px"
+msgstr ""
+
+msgid "Icons color for customization options."
+msgstr ""
+
+msgid "Select a color which is used as default when customizing an icon from your collection."
+msgstr ""
+
+msgid "How to load icons?"
+msgstr ""
+
+msgid "Inline"
+msgstr ""
+
+msgid "Ajax."
+msgstr ""
+
+msgid "AJAX"
+msgstr ""
+
+msgid "Load system icons into frontend?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Integrations:"
+msgstr ""
+
+msgid "WordPress Customizer"
+msgstr ""
+
+msgid "WPBakery Page Builder"
+msgstr ""
+
+msgid "visit"
+msgstr ""
+
+msgid "Elementor"
+msgstr ""
+
+msgid "Beaver Builder"
+msgstr ""
+
+msgid "GutenBerg"
+msgstr ""
+
+msgid "Divi Builder <em>(Coming soon)</em>"
+msgstr ""
+
+msgid "More Builders Soon (Visual Composer, Divi Builder, King Composer, SiteOrigin Builder, etc.)"
+msgstr ""
+
+msgid "By default, the elements of these builders will load automatically, however, if you don't plan on using some of them, simply disable and skip loading their functionality."
+msgstr ""
+
+msgid "Enable editor \"Insert Icon\" button?"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enabling this will show an insert icon button right above the WordPress TinyMCE Editor,<br>which will allow you to insert an icon via shortcode."
+msgstr ""
+
+msgid "User roles"
+msgstr ""
+
+msgid "Choose the roles allowed to use this plugin."
+msgstr ""
+
+msgid "Dequeue font-icons"
+msgstr ""
+
+msgid "Enter here the list of IDs of the font-icons you want to deregister from your theme or plugins. Separate entries with comma. Eg: \"font-awesome, font_awesome,\". "
+msgstr ""
+
+msgid "Backup Collection"
+msgstr ""
+
+msgid "Export collection"
+msgstr ""
+
+msgid "Export a backup of your collection."
+msgstr ""
+
+msgid "Restore Collection"
+msgstr ""
+
+msgid "Import / Restore collection"
+msgstr ""
+
+msgid "Overwrite duplicates?"
+msgstr ""
+
+msgid "Restore a backup of your collection."
+msgstr ""
+
+msgid "Lock icons per user?"
+msgstr ""
+
+msgid "This option will lock icons to be removed from the custom collection, if the icon was added from another user account."
+msgstr ""
+
+msgid "Add Icons To Media Library"
+msgstr ""
+
+msgid "By default icons are imported into Media Library too."
+msgstr ""
+
+msgid "Enable debug mode?"
+msgstr ""
+
+msgid "Should always be disabled unless you're in development mode."
+msgstr ""
+
+msgid "Click to re-import all collections"
+msgstr ""
+
+msgid "Re-scan collections"
+msgstr ""
+
+msgid "Save options"
+msgstr ""
+
+msgid "Sorry, you need to be an administrator to perform this action"
+msgstr ""
+
+msgid "Please select at least one icon."
+msgstr ""
+
+msgid "There was an error creating/updating the SVG SPRITE."
+msgstr ""
+
+msgid "Sorry, invalid request."
+msgstr ""
+
+msgid "Sorry, nothing found"
+msgstr ""
+
+msgid "Couldn't get the sprite."
+msgstr ""
+
+msgid "No previously saved icons."
+msgstr ""
+
+msgid "Icon removed."
+msgstr ""
+
+msgid "There was an error deleting the SVG file."
+msgstr ""
+
+msgid "Icon was removed but there was an error regenerating the sprite."
+msgstr ""
+
+msgid "Icons \"%s\" couldn't be removed."
+msgstr ""
+
+msgid "There was an error regenerating the sprite."
+msgstr ""
+
+msgid "Icons removed."
+msgstr ""
+
+msgid "Empty data."
+msgstr ""
+
+msgid "The <strong>%s</strong> plugin needs access to file system in order to function properly.  "
+msgstr ""
+
+msgid "Error cleaning the SVG's CSS classes. Try to skip the icon you just toggled, or try to contact support."
+msgstr ""
+
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+msgid "Id Missng."
+msgstr ""
+
+msgid "Empty collection. Aborting."
+msgstr ""
+
+msgid "ZipArchive is not enabled. Aborting!"
+msgstr ""
+
+msgid "Successfully deleted!"
+msgstr ""
+
+msgid "Unable to delete."
+msgstr ""
+
+msgid "File is missing."
+msgstr ""
+
+msgid "Something went wrong with the uploaded file."
+msgstr ""
+
+msgid "Successfully uploaded & imported data."
+msgstr ""
+
+msgid "Empty $file."
+msgstr ""
+
+msgid "iconpress.json file missing."
+msgstr ""
+
+msgid "Empty filepath."
+msgstr ""
+
+msgid "No options found."
+msgstr ""
+
+msgid "Invalid nonce."
+msgstr ""
+
+msgid "Please specify a value for the grid listing color option."
+msgstr ""
+
+msgid "Please specify a value for the grid listing size option."
+msgstr ""
+
+msgid "Insert Icon"
+msgstr ""
+
+msgid "Close Panel"
+msgstr ""
+
+msgid "Knowledge Base"
+msgstr ""
+
+msgid "Will open in a new window"
+msgstr ""
+
+msgid "Select Icon"
+msgstr ""
+
+msgid "Change Icon"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "No icon selected"
+msgstr ""
+
+msgid "Choose Icon"
+msgstr ""
+
+msgid "IconPress"
+msgstr ""
+
+msgid "No Icon Selected"
+msgstr ""
+
+msgid "Add Icon"
+msgstr ""
+
+msgid "IconPress Icon"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Stacked"
+msgstr ""
+
+msgid "Framed"
+msgstr ""
+
+msgid "Shape"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "https://your-link.com"
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Primary Color"
+msgstr ""
+
+msgid "Secondary Color"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Fully stretch icon"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "Padding"
+msgstr ""
+
+msgid "Rotate"
+msgstr ""
+
+msgid "Border Width"
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Entrance Animation (Special)"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Slide Reveal"
+msgstr ""
+
+msgid "Explosion Reveal"
+msgstr ""
+
+msgid "Entrance delay"
+msgstr ""
+
+msgid "Icon Hover"
+msgstr ""
+
+msgid "Hover Animation"
+msgstr ""
+
+msgid "Decorations"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Decoration Icon"
+msgstr ""
+
+msgid "Fill Color"
+msgstr ""
+
+msgid "Horizontal Position"
+msgstr ""
+
+msgid "Vertical Position"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Decorations Hover"
+msgstr ""
+
+msgid "Hover Color"
+msgstr ""
+
+msgid "An example for coding new modules."
+msgstr ""
+
+msgid "IconPress Modules"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Icontest"
+msgstr ""
+
+msgid "Link Target"
+msgstr ""
+
+msgid "Same Window"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Background Hover Color"
+msgstr ""
+
+msgid "Gradient"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Icon Rotate"
+msgstr ""
+
+msgid "Entrance delay (ms)"
+msgstr ""
+
+msgid "Structure"
+msgstr ""
+
+msgid "Icon Size"
+msgstr ""
+
+msgid "Full Size Icon?"
+msgstr ""
+
+msgid "Mobile Structure"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Alignment"
+msgstr ""
+
+msgid "Select Type"
+msgstr ""
+
+msgid "Select Decoration Icon"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "URL (Link)"
+msgstr ""
+
+msgid "Icon Style"
+msgstr ""
+
+msgid "Styling"
+msgstr ""
+
+msgid "Shape Style"
+msgstr ""
+
+msgid "Available for path based icons only. <a href='%s' target='_blank'>More info here</a>."
+msgstr ""
+
+msgid "Shape Color"
+msgstr ""
+
+msgid "Rotate Icon"
+msgstr ""
+
+msgid "Hover options"
+msgstr ""
+
+msgid "Shape Hover Color"
+msgstr ""
+
+msgid "Decorations options"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Decoration Size"
+msgstr ""
+
+msgid "Decoration Color"
+msgstr ""
+
+msgid "Decoration Hover"
+msgstr ""
+
+msgid "Misc. options"
+msgstr ""
+
+msgid "Entry Animation (in viewport)"
+msgstr ""
+
+msgid "Fade In"
+msgstr ""
+
+msgid "Fade From Left"
+msgstr ""
+
+msgid "Fade From Right"
+msgstr ""
+
+msgid "Fade From Top"
+msgstr ""
+
+msgid "Fade From Bottom"
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Selecting any of the options, will only show this element when entering the viewport (while scrolling)."
+msgstr ""
+
+msgid "Entry delay"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Accessibility title (won't be visually shown)"
+msgstr ""
+
+msgid "Element ID"
+msgstr ""
+
+msgid "Enter element ID (Note: make sure it is unique and valid according to <a href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+
+msgid "Extra class name"
+msgstr ""
+
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+msgid "Css"
+msgstr ""
+
+msgid "Design options"
+msgstr ""
+
+msgid "IconPress Box"
+msgstr ""
+
+msgid "Display icons from your custom IconPress collection"
+msgstr ""
+
+msgid "\"Icon\" element clone, but from your IconPress collection"
+msgstr ""
+
+msgid "Icon color"
+msgstr ""
+
+msgid "Custom color"
+msgstr ""
+
+msgid "Select icon color."
+msgstr ""
+
+msgid "Select custom icon color."
+msgstr ""
+
+msgid "Background shape"
+msgstr ""
+
+msgid "Rounded"
+msgstr ""
+
+msgid "Outline Circle"
+msgstr ""
+
+msgid "Outline Square"
+msgstr ""
+
+msgid "Outline Rounded"
+msgstr ""
+
+msgid "Select background shape and style for icon."
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Select background color for icon."
+msgstr ""
+
+msgid "Custom background color"
+msgstr ""
+
+msgid "Select custom icon background color."
+msgstr ""
+
+msgid "Extra Large"
+msgstr ""
+
+msgid "Icon size."
+msgstr ""
+
+msgid "Icon alignment"
+msgstr ""
+
+msgid "Select icon alignment."
+msgstr ""
+
+msgid "Add link to icon."
+msgstr ""
+
+msgid "CSS box"
+msgstr ""
+
+msgid "Design Options"
+msgstr ""

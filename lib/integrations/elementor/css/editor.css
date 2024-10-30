@@ -1,0 +1,12 @@
+.iconpress-eicon {
+	display: inline-block;
+	height: 1em;
+	position: relative;
+	vertical-align: middle;
+	width: 1em;
+	background-size: 100%;
+}
+
+.iconpress-logo-icon-dark {
+    background-image: url('../img/iconpress_dark_square.svg') !important;
+}
